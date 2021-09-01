@@ -26,30 +26,30 @@ Este projeto disponibiliza uma aplicação desenvolvida em React JS que realiza 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Yarn](https://yarnpkg.com/): gerenciador de pacotes para JavaScript.
-- [Docker](https://www.docker.com/): plataforma para disponibilizar aplicações através de containers.
-- [MongoDB](https://www.mongodb.com/): banco de dados NoSQL.
-- [Robo 3T](https://robomongo.org/): ferramenta gráfica para gerenciamento do MongoDB.
-- [Node](https://nodejs.org/en/): runtime para execução de código JavaScript do lado do servidor.
-- [React](https://pt-br.reactjs.org/): biblioteca JavaScript para criação de interfaces do usuário.
+- [Yarn](https://yarnpkg.com/): gerenciador de pacotes para JavaScript;
+- [Docker](https://www.docker.com/): plataforma para disponibilizar aplicações através de containers;
+- [MongoDB](https://www.mongodb.com/): banco de dados NoSQL;
+- [Robo 3T](https://robomongo.org/): ferramenta gráfica para gerenciamento do MongoDB;
+- [Node](https://nodejs.org/en/): runtime para execução de código JavaScript do lado do servidor;
+- [React](https://pt-br.reactjs.org/): biblioteca JavaScript para criação de interfaces do usuário;
 - [Insomnia](https://insomnia.rest/): cliente para testes e documentação de APIs REST.
 
 ## 💻 Execução
 
-1. Clone o projeto git através do terminal;
+1. Clone o projeto git através do terminal:
 
 ```shell
 git clone https://github.com/vitormbgoncalves/basic-react-app.git
 cd basic-react-app
 ```
 
-2. Para instalar todas dependências do projeto execute o comando abaixo;
+2. Para instalar todas dependências do projeto execute o comando abaixo:
 
 ```shell
 yarn
 ```
 
-3. Para iniciar a aplicação execute o comando abaixo
+3. Para iniciar a aplicação execute o comando abaixo:
 
 ```shell
 yarn start
